@@ -6,7 +6,7 @@
         type : "GET",
         //请求的媒体类型
         //请求地址
-        url : "https://10.96.64.48/fei.php",
+        url : "https://10.96.64.48:8443/fei.php",
         
         header:{
         "Access-Control-Allow-Origin":"*"
